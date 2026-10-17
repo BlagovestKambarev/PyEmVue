@@ -7,3 +7,5 @@ __pycache__
 *.egg-info
 Notes/
 test.py
+
+.DS_Store
